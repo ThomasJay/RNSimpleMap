@@ -1,2 +1,2 @@
 # RNSimpleMap
-Simple Map with Pins and Callouts
+React Native Simple Map with Pins and Callouts
